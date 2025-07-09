@@ -1,0 +1,7 @@
+Warning 1 : 2 catch records have been accumulated into year, seas, fleet 2015 1 1; total catch= 1115.86
+Note 1 Information: Max data length bin: 94  < max pop len bins: 118; so will accumulate larger pop len bins
+Warning 2 : Setting in starter does not request all priors, and 3 parameters have priors and are not estimated, so their prior not included in obj_fun.
+Warning 3 : Minimum pop size bin:_4; is > L at Amin for sex: 1; Gpat: 1; L= 0
+Warning 4 : Minimum pop size bin:_4; is > L at Amin for sex: 2; Gpat: 1; L= 0
+Note 2 Information: A revised protocol for the Fcast_yr specification is available and recommended.
+ 4 warnings  and 2 notes 
