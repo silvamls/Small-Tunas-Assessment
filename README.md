@@ -1,2 +1,3 @@
 # Small-Tunas-Assessment
-Here you can find all the files related to the stock assessment of small tuna species using different types of observed and reconstructed data
+This repository contains the data, scripts, and model configurations used in the stock assessment of small tuna species in the Southwest Atlantic Ocean. 
+The assessment explores different scenarios using both observed and reconstructed fisheries data.
